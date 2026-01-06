@@ -8,7 +8,7 @@ My goal is to build **functional, intuitive, and visually appealing digital solu
 
 ---
 
-## 🧠 Skills
+## Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="C++" height="40" width="50"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -28,7 +28,7 @@ My goal is to build **functional, intuitive, and visually appealing digital solu
 
 ---
 
-## 🛠️ Tools
+## Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Figma" height="40" width="50"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
